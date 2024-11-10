@@ -44,7 +44,7 @@ I'm an Ai Researcher, full-stack developer and creator building my version of th
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=EzzMahdi&theme=gruvbox&border_radius=4.5) -->
 
 #
-#
+
 
 
 <details>
@@ -53,9 +53,3 @@ Wandering through the vast world of coding, chasing every shiny new thing that c
 That changed when I started working on real projects. One of my first was a Python automation script that saved hours of manual work. It wasn’t groundbreaking, but it was useful, and for the first time, I felt the power of coding to make life easier. Then I built a SaaS platform for managing emails, a project that taught me how to turn ideas into solutions people could actually use.
 Later, I got into AI and machine learning. I worked on a project that used models to analyze patterns and make predictions. It was fascinating to see how data could teach machines to improve on their own.
 Now, I’m ready to take everything I’ve learned—automation, SaaS, AI—and build something bigger. No more wandering. It’s time to create something that matters.
-
-#
-#
-
-[website]: https://ezzmahdi.github.io/Social-Media-Accounts/
-[youtube]: https://youtube.com
